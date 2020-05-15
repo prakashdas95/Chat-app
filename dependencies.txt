@@ -1,0 +1,11 @@
+npm i express
+npm i nodemon --save-dev
+
+package file changes
+  "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+
+
+    npm i socket.io
+
+    npm i bad-words
