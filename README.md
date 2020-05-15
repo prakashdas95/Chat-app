@@ -1,2 +1,2 @@
 # Chat-app
-https://prakash-chat-app.herokuapp.com/ deployed
+https://prakash-chat-app.herokuapp.com/
